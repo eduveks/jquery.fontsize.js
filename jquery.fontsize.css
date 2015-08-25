@@ -1,0 +1,32 @@
+﻿#fontsize {
+    position: fixed;
+    bottom: 20px;
+    right: 100px;
+    width: 85px;
+    height: 30px;
+    background-color: #333;
+}
+
+#fontsize > div {
+    display: inline-block;
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    color: #fff;
+    text-align: center;
+}
+
+#fontsize-bigger {
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+#fontsize-smaller {
+    font-size: 14px;
+    margin-right: 10px;
+}
+
+#fontsize .fontsize-disabled {
+    opacity: 0.5;
+}

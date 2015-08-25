@@ -1,0 +1,32 @@
+{
+  "name": "jquery.fontsize.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/eduveks/jquery.fontsize.js",
+  "authors": [
+    "Eduardo Velasques <eduveks@gmail.com>"
+  ],
+  "description": "jQuery plugin to control the font size in all HTML/DOM.",
+  "main": "jquery.fontsize.js",
+  "moduleType": [
+    "amd"
+  ],
+  "dependencies": {
+    "jquery-cookie": ">=1.0"
+  },
+  "keywords": [
+    "jquery",
+    "fontsize",
+    "font",
+    "size",
+    "zoom",
+    "text"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
