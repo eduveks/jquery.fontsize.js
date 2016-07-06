@@ -27,6 +27,10 @@ $('body').fontsize('init', {
 });
 ```
 
+## Demo:
+
+Download and see the demo page in /test/frontend/index.html
+
 ## Screenshots:
 
 ### Controls:
