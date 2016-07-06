@@ -29,9 +29,12 @@ $('body').fontsize('init', {
 
 ## Screenshots:
 
+### Controls:
 ![Alt text](screenshots/controls.png?raw=true "Font Size Controls")
 
+### Mobile:
 ![Alt text](screenshots/mobile.png?raw=true "Mobile View")
 
-![Alt text](screenshots/demo.png?raw=true "Demo")
+### Font size changes:
+![Alt text](screenshots/demo.jpg?raw=true "Demo")
 
